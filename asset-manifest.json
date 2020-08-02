@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/upstox-test/static/css/main.b096d558.chunk.css",
-    "main.js": "/upstox-test/static/js/main.2fd08541.chunk.js",
-    "main.js.map": "/upstox-test/static/js/main.2fd08541.chunk.js.map",
-    "runtime-main.js": "/upstox-test/static/js/runtime-main.eaa22d8e.js",
-    "runtime-main.js.map": "/upstox-test/static/js/runtime-main.eaa22d8e.js.map",
-    "static/js/2.fa0c642f.chunk.js": "/upstox-test/static/js/2.fa0c642f.chunk.js",
-    "static/js/2.fa0c642f.chunk.js.map": "/upstox-test/static/js/2.fa0c642f.chunk.js.map",
-    "index.html": "/upstox-test/index.html",
-    "precache-manifest.4f81609d5e875283b8ba8fb6d673d65c.js": "/upstox-test/precache-manifest.4f81609d5e875283b8ba8fb6d673d65c.js",
-    "service-worker.js": "/upstox-test/service-worker.js",
-    "static/css/main.b096d558.chunk.css.map": "/upstox-test/static/css/main.b096d558.chunk.css.map",
-    "static/js/2.fa0c642f.chunk.js.LICENSE.txt": "/upstox-test/static/js/2.fa0c642f.chunk.js.LICENSE.txt"
+    "main.css": "/amitmaury/upstox-test/static/css/main.b096d558.chunk.css",
+    "main.js": "/amitmaury/upstox-test/static/js/main.79ec359d.chunk.js",
+    "main.js.map": "/amitmaury/upstox-test/static/js/main.79ec359d.chunk.js.map",
+    "runtime-main.js": "/amitmaury/upstox-test/static/js/runtime-main.5092b9e7.js",
+    "runtime-main.js.map": "/amitmaury/upstox-test/static/js/runtime-main.5092b9e7.js.map",
+    "static/js/2.d0f1f50e.chunk.js": "/amitmaury/upstox-test/static/js/2.d0f1f50e.chunk.js",
+    "static/js/2.d0f1f50e.chunk.js.map": "/amitmaury/upstox-test/static/js/2.d0f1f50e.chunk.js.map",
+    "index.html": "/amitmaury/upstox-test/index.html",
+    "precache-manifest.5a94d28727e6c66bf0a3033752a56992.js": "/amitmaury/upstox-test/precache-manifest.5a94d28727e6c66bf0a3033752a56992.js",
+    "service-worker.js": "/amitmaury/upstox-test/service-worker.js",
+    "static/css/main.b096d558.chunk.css.map": "/amitmaury/upstox-test/static/css/main.b096d558.chunk.css.map",
+    "static/js/2.d0f1f50e.chunk.js.LICENSE.txt": "/amitmaury/upstox-test/static/js/2.d0f1f50e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eaa22d8e.js",
-    "static/js/2.fa0c642f.chunk.js",
+    "static/js/runtime-main.5092b9e7.js",
+    "static/js/2.d0f1f50e.chunk.js",
     "static/css/main.b096d558.chunk.css",
-    "static/js/main.2fd08541.chunk.js"
+    "static/js/main.79ec359d.chunk.js"
   ]
 }
