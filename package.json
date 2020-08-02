@@ -2,7 +2,6 @@
   "name": "upstox-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amitmaury.github.io/upstox-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -17,7 +16,6 @@
     "react-scripts": "3.4.1",
     "react-timeseries-charts": "^0.16.1",
     "redux": "^4.0.5",
-    "serve": "^11.3.2",
     "socket.io-client": "^2.3.0"
   },
   "scripts": {
@@ -42,5 +40,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://amitmaury.github.io/upstox-test"
 }
