@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/upstox-test/static/css/main.b096d558.chunk.css",
+    "main.css": "/upstox-test/static/css/main.2b4e3222.chunk.css",
     "main.js": "/upstox-test/static/js/main.dfdc59d1.chunk.js",
     "main.js.map": "/upstox-test/static/js/main.dfdc59d1.chunk.js.map",
     "runtime-main.js": "/upstox-test/static/js/runtime-main.eaa22d8e.js",
@@ -8,15 +8,15 @@
     "static/js/2.0cef3464.chunk.js": "/upstox-test/static/js/2.0cef3464.chunk.js",
     "static/js/2.0cef3464.chunk.js.map": "/upstox-test/static/js/2.0cef3464.chunk.js.map",
     "index.html": "/upstox-test/index.html",
-    "precache-manifest.38f2a15d1a6ff7556d6552a30117636f.js": "/upstox-test/precache-manifest.38f2a15d1a6ff7556d6552a30117636f.js",
+    "precache-manifest.809711352d6ce6cbbfb168bed532afe6.js": "/upstox-test/precache-manifest.809711352d6ce6cbbfb168bed532afe6.js",
     "service-worker.js": "/upstox-test/service-worker.js",
-    "static/css/main.b096d558.chunk.css.map": "/upstox-test/static/css/main.b096d558.chunk.css.map",
+    "static/css/main.2b4e3222.chunk.css.map": "/upstox-test/static/css/main.2b4e3222.chunk.css.map",
     "static/js/2.0cef3464.chunk.js.LICENSE.txt": "/upstox-test/static/js/2.0cef3464.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eaa22d8e.js",
     "static/js/2.0cef3464.chunk.js",
-    "static/css/main.b096d558.chunk.css",
+    "static/css/main.2b4e3222.chunk.css",
     "static/js/main.dfdc59d1.chunk.js"
   ]
 }
