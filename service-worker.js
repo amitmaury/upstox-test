@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/upstox-test/precache-manifest.4f81609d5e875283b8ba8fb6d673d65c.js"
+  "/upstox-test/precache-manifest.38f2a15d1a6ff7556d6552a30117636f.js"
 );
 
 self.addEventListener('message', (event) => {

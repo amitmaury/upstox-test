@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/upstox-test/static/css/main.b096d558.chunk.css",
-    "main.js": "/upstox-test/static/js/main.2fd08541.chunk.js",
-    "main.js.map": "/upstox-test/static/js/main.2fd08541.chunk.js.map",
+    "main.js": "/upstox-test/static/js/main.dfdc59d1.chunk.js",
+    "main.js.map": "/upstox-test/static/js/main.dfdc59d1.chunk.js.map",
     "runtime-main.js": "/upstox-test/static/js/runtime-main.eaa22d8e.js",
     "runtime-main.js.map": "/upstox-test/static/js/runtime-main.eaa22d8e.js.map",
-    "static/js/2.fa0c642f.chunk.js": "/upstox-test/static/js/2.fa0c642f.chunk.js",
-    "static/js/2.fa0c642f.chunk.js.map": "/upstox-test/static/js/2.fa0c642f.chunk.js.map",
+    "static/js/2.0cef3464.chunk.js": "/upstox-test/static/js/2.0cef3464.chunk.js",
+    "static/js/2.0cef3464.chunk.js.map": "/upstox-test/static/js/2.0cef3464.chunk.js.map",
     "index.html": "/upstox-test/index.html",
-    "precache-manifest.4f81609d5e875283b8ba8fb6d673d65c.js": "/upstox-test/precache-manifest.4f81609d5e875283b8ba8fb6d673d65c.js",
+    "precache-manifest.38f2a15d1a6ff7556d6552a30117636f.js": "/upstox-test/precache-manifest.38f2a15d1a6ff7556d6552a30117636f.js",
     "service-worker.js": "/upstox-test/service-worker.js",
     "static/css/main.b096d558.chunk.css.map": "/upstox-test/static/css/main.b096d558.chunk.css.map",
-    "static/js/2.fa0c642f.chunk.js.LICENSE.txt": "/upstox-test/static/js/2.fa0c642f.chunk.js.LICENSE.txt"
+    "static/js/2.0cef3464.chunk.js.LICENSE.txt": "/upstox-test/static/js/2.0cef3464.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eaa22d8e.js",
-    "static/js/2.fa0c642f.chunk.js",
+    "static/js/2.0cef3464.chunk.js",
     "static/css/main.b096d558.chunk.css",
-    "static/js/main.2fd08541.chunk.js"
+    "static/js/main.dfdc59d1.chunk.js"
   ]
 }

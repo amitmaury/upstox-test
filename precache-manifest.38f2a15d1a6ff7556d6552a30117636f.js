@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "481369533c981b773608d9525f2eec32",
+    "revision": "e87442026214870002686193c56de984",
     "url": "/upstox-test/index.html"
   },
   {
-    "revision": "2e3d6cbf6a13a3cb4fb7",
+    "revision": "402501ade47d189a9d18",
     "url": "/upstox-test/static/css/main.b096d558.chunk.css"
   },
   {
-    "revision": "9b8065344bc77e0d6cec",
-    "url": "/upstox-test/static/js/2.fa0c642f.chunk.js"
+    "revision": "76c0c51d9945355d58d1",
+    "url": "/upstox-test/static/js/2.0cef3464.chunk.js"
   },
   {
     "revision": "a6c07ce92e9d8d498b5ade08b1bd38bf",
-    "url": "/upstox-test/static/js/2.fa0c642f.chunk.js.LICENSE.txt"
+    "url": "/upstox-test/static/js/2.0cef3464.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e3d6cbf6a13a3cb4fb7",
-    "url": "/upstox-test/static/js/main.2fd08541.chunk.js"
+    "revision": "402501ade47d189a9d18",
+    "url": "/upstox-test/static/js/main.dfdc59d1.chunk.js"
   },
   {
     "revision": "0a747f661e057ceaea69",
