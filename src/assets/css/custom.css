@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    font-family: "Josefin Sans", sans-serif;
+  }
+  .navbar {
+    font-size: 18px;
+    background-color: #333;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 46px;
+    justify-content: center;
+  }
+  .main-nav-bar{
+    list-style-type: none;
+    display: none;
+  }
+  .main-nav-bar li {
+    text-align: center;
+    margin: 15px auto;
+  }
+  .navbar-toggle-span {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 24px;
+  }
+  .active {
+    display: block;
+  }
+  .nav-link-bar{
+    color: #fff;
+    text-decoration: none;
+  }
+  .nav-link-bar:hover {
+    color:red
+  }
+  table { 
+    width: 100%; 
+    border-collapse: collapse; 
+  }
+  /* Zebra striping */
+  tr:nth-of-type(odd) { 
+    background: #eee; 
+  }
+  th { 
+    background: darkblue; 
+    color: white; 
+    font-weight: bold; 
+  }
+  td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+  }
+  @media screen and (min-width: 768px) {
+    .navbar {
+      display: flex;
+      padding-bottom: 0;
+      height: 70px;
+      align-items: center;
+    }
+  
+    .main-nav-bar {
+      display: flex;
+      margin-right: 30px;
+      flex-direction: row;
+      justify-content: flex-end;
+    }
+  
+    .main-nav-bar li {
+      margin: 0;
+    }
+  
+    .nav-link-bar{
+      margin-left: 40px;
+    }
+  
+    .navbar-toggle-span{
+      display: none;
+    }
+    
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+	    border: none;
+        word-wrap: break-word;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		position: absolute;
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	td:nth-of-type(1):before { content: "UserName"; }
+	td:nth-of-type(2):before { content: "Name"; }
+	td:nth-of-type(3):before { content: "Email"; }
+	td:nth-of-type(4):before { content: "Contact"; }
+	td:nth-of-type(5):before { content: "Address"; }
+}  
+ 
